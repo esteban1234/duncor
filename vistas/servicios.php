@@ -33,7 +33,7 @@ Servicios que ofrecemos</p>
           </div>
           <div class="col-md-6">
             <h1 class="top">CONSTRUCCIÓN</h1>
-            <p>Construimos la casa a la medida de tus sueños nos adaptamos a la necesidad de tu presupuesto y tú proyecto. Desde instalaciones eléctricas hasta instalaciones sanitarias. no por ningún aspecto durante la construcción de proyecto.</p>
+            <p class="textos">Construimos la casa a la medida de tus sueños nos adaptamos a la necesidad de tu presupuesto y tú proyecto. Desde instalaciones eléctricas hasta instalaciones sanitarias. no por ningún aspecto durante la construcción de proyecto.</p>
           </div>
         </div>
       </div>
@@ -44,7 +44,7 @@ Servicios que ofrecemos</p>
         <div class="row">
           <div class="col-md-6">
             <h1 class="top2">ARQUITECTURA</h1>
-            <p>Si no cuentas con tu proyecto no te preocupes nosotros podemos ayudarte a diseñar la casa de tus sueños tal y como te lo imaginas ajustandonos a tu presupuesto. Desde proyectos de jardinería decoración de interiores y acabados.</p>
+            <p class="textos">Si no cuentas con tu proyecto no te preocupes nosotros podemos ayudarte a diseñar la casa de tus sueños tal y como te lo imaginas ajustandonos a tu presupuesto. Desde proyectos de jardinería decoración de interiores y acabados.</p>
           </div>
           <div class="col-md-6">
             <img src="../img/arqui.jpg"
@@ -62,7 +62,7 @@ Servicios que ofrecemos</p>
           </div>
           <div class="col-md-6">
             <h1 class="top">TRÁMITES</h1>
-            <p>Evítate gastar tu tiempo en trámites y permisos de construcción y obras; nosotros nos encargamos de todo para que tú sólo disfrutes el proyecto de tu vida.</p>
+            <p class="textos">Evítate gastar tu tiempo en trámites y permisos de construcción y obras; nosotros nos encargamos de todo para que tú sólo disfrutes el proyecto de tu vida.</p>
           </div>
         </div>
       </div>
