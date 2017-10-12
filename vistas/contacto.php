@@ -21,8 +21,7 @@
 </header>
 
 <div class="banners">
-  <p>
-Servicios que ofrecemos</p>
+  <p>CONTACTO</p>
 </div>
 
 <div class="cont seccion2">

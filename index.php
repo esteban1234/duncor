@@ -56,7 +56,7 @@
 </div>
 
 <h1 class="text-center tit">EL <b style="color: #7A170F;">HOGAR</b> DE TUS SUEÑOS ES UNA REALIDAD</h1>
-<p class="texto">Cotiza tu proyecto, déjate sorprender con todas las posibilidades que tenemos para ti y tu familia</p>
+<p class="texto">Cotiza tu proyecto, déjate sorprender con todas las posibilidades que tenemos para ti y tu familia</p> <br><br>	
 
 <div class="section">
       <div class="container">
