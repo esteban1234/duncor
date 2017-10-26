@@ -74,6 +74,11 @@ nav ul a.selector:hover{
 nav ul a#select{
 	color: #7C7B7B;
 }
+
+.op-menu{
+	display: none;
+}
+
 .banner {
     position: relative;
     height: 410px;
@@ -198,6 +203,11 @@ hr {
     background-repeat: no-repeat;
     overflow: hidden;
     clear: both;
+}
+
+.imagens{
+	width: 100% !important;
+	}
 }
 /*---------------------pie------------------*/
 footer{

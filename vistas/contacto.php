@@ -18,6 +18,9 @@
       <a class="selector" id="select" href="contacto.php"><i class="fa fa-phone" aria-hidden="true"></i> CONTACTO</a>
     </ul>
   </nav>
+  <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
 
 <div class="banners">
@@ -49,34 +52,35 @@
   <p class="textof">Escribenos tus comentario, dudas o preguntas, estamos para servirte.</p> <br><br>
   <div class="container">
     <div class="row">
-      <form role="form" id="contact-form" class="contact-form">
+      <form role="form" id="contact-form" class="contact-form" onSubmit="return false">
                       <div class="row">
-                      <div class="col-md-4">
+                      <div class="col-sm-12 col-md-4">
                         <div class="form-group">
-                              <input type="text" class="form-control" name="Name" autocomplete="off" id="Name" placeholder="Escribe tu nombre completo">
+                              <input type="text" class="form-control" name="Name" autocomplete="off" id="txtNOMBRE" placeholder="Escribe tu nombre completo">
                         </div>
                       </div>
-                        <div class="col-md-4">
+                        <div class="col-sm-6 col-md-4">
                         <div class="form-group">
-                              <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="Escribe tu correo electronico">
+                              <input type="email" class="form-control" name="email" autocomplete="off" id="txtCORREO" placeholder="Escribe tu correo electronico">
                         </div>
                       </div>
-                      <div class="col-md-4">
+                      <div class="col-sm-6 col-md-4">
                         <div class="form-group">
-                              <input type="text" class="form-control" name="tel" autocomplete="off" id="email" placeholder="Escribe tu numero teléfonico">
+                              <input type="text" class="form-control" name="tel" autocomplete="off" id="txtTELEFONO" placeholder="Escribe tu numero teléfonico">
                         </div>
                       </div>
                       </div>
                       <div class="row">
                         <div class="col-md-12">
                         <div class="form-group">
-                              <textarea class="form-control textarea" rows="3" name="Message" id="Message" placeholder="Escribe tu comentario"></textarea>
+                              <textarea class="form-control textarea" rows="3" name="Message" id="txtCOMENTARIO" placeholder="Escribe tu comentario"></textarea>
                         </div>
                       </div>
                       </div>
                       <div class="row">
-                      <div class="col-md-12">
-                    <button type="submit" class="btn main-btn pull-right">ENVIAR</button>
+                      <div id="_AJAX_PRE_" class="col-xs-12 col-lg-12"></div>
+                      <div class="col-md-12 alinear-btn">
+                    <button type="submit" class="btn main-btn pull-right" onclick="sendCORREO()">ENVIAR</button>
                     </div>
                     </div>
                   </form>
@@ -94,6 +98,7 @@
 <script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/arriba.js"></script>
-<script src="../js/contacto.js"></script>
+<script src="../js/sendCORREO.js"></script>
+<!-- <script src="../js/contacto.js"></script> -->
 </body>
 </html>

@@ -18,6 +18,9 @@
       <a class="selector" href="contacto.php">CONTACTO</a>
     </ul>
   </nav>
+   <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
 
 <div class="banners">
@@ -28,10 +31,10 @@ Servicios que ofrecemos</p>
 <div class="section seccion2">
       <div class="container">
         <div class="row">
-          <div class="imagenn col-md-6">
+          <div class="imagenn col-sm-6 col-md-6">
             
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 broder">
             <h1 class="top">CONSTRUCCIÓN</h1>
             <p class="textos">Construimos la casa a la medida de tus sueños nos adaptamos a la necesidad de tu presupuesto y tú proyecto. Desde instalaciones eléctricas hasta instalaciones sanitarias. no por ningún aspecto durante la construcción de proyecto.</p>
           </div>
@@ -42,12 +45,12 @@ Servicios que ofrecemos</p>
     <div class="section seccion3">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 broder">
             <h1 class="top2">ARQUITECTURA</h1>
             <p class="textos">Si no cuentas con tu proyecto no te preocupes nosotros podemos ayudarte a diseñar la casa de tus sueños tal y como te lo imaginas ajustandonos a tu presupuesto. Desde proyectos de jardinería decoración de interiores y acabados.</p>
           </div>
-          <div class="col-md-6">
-            <img src="../img/arqui.jpg"
+          <div class="col-sm-6 col-md-6 img-centro">
+            <img class="imagens" src="../img/arqui.jpg"
             class="img-responsive">
           </div>
         </div>
@@ -57,10 +60,10 @@ Servicios que ofrecemos</p>
     <div class="section seccion2">
       <div class="container">
         <div class="row">
-          <div class="imagenn col-md-6">
+          <div class="imagenn col-sm-6 col-md-6">
             
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 broder">
             <h1 class="top">TRÁMITES</h1>
             <p class="textos">Evítate gastar tu tiempo en trámites y permisos de construcción y obras; nosotros nos encargamos de todo para que tú sólo disfrutes el proyecto de tu vida.</p>
           </div>

@@ -18,6 +18,9 @@
 			<a class="selector" href="vistas/contacto.php">CONTACTO</a>
 		</ul>
 	</nav>
+  <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
 
 <div class="banner">
@@ -34,17 +37,17 @@
     <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
-            <h2 style="color: #fff; text-align: center;">Construcción</h2>
-            <p style="color: #fff; text-align: center;">Construimos de acuerdo a la medida de tu proyecto arquitectónico y en base a tu presupuesto.</p>
+          <div class="col-xs-12 col-sm-4 col-md-4">
+            <h2 class="cdt" style="color: #fff; text-align: center;">Construcción</h2>
+            <p class="txt-cdt" style="color: #fff; text-align: center;">Construimos de acuerdo a la medida de tu proyecto arquitectónico y en base a tu presupuesto.</p>
           </div>
-          <div class="col-md-4">
-            <h2 style="color: #fff; text-align: center;">Diseño de Proyecto</h2>
-            <p style="color: #fff; text-align: center;">Te ayudamos a crear un proyecto arquitectónico que se adecue a tus necesidades y presupuesto.</p>
+          <div class="col-xs-12 col-sm-4 col-md-4">
+            <h2 class="cdt" style="color: #fff; text-align: center;">Diseño de Proyecto</h2>
+            <p class="txt-cdt" style="color: #fff; text-align: center;">Te ayudamos a crear un proyecto arquitectónico que se adecue a tus necesidades y presupuesto.</p>
           </div>
-          <div class="col-md-4">
-            <h2 style="color: #fff; text-align: center;">Trámites</h2>
-            <p style="color: #fff; text-align: center;">Evítate gastar tu tiempo en trámites y permisos de construcción y obras; nosotros nos encargamos de todo para que tú sólo disfrutes y supervises es el proyecto de tu vida.</p>
+          <div class="col-xs-12 col-sm-4 col-md-4">
+            <h2 class="cdt" style="color: #fff; text-align: center;">Trámites</h2>
+            <p class="txt-cdt" style="color: #fff; text-align: center;">Evítate gastar tu tiempo en trámites y permisos de construcción y obras; nosotros nos encargamos de todo para que tú sólo disfrutes y supervises es el proyecto de tu vida.</p>
           </div>
         </div>
       </div>
@@ -63,7 +66,7 @@
         <div class="row">
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 alinear-txt">
             <figure class="imagen">
             	
             </figure>
@@ -73,7 +76,7 @@
 -Pisos de porcelanato <br>
 -Ventanería de aluminio corredizo</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 alinear-txt">
             <figure class="imagen2">
             	
             </figure>
@@ -83,7 +86,7 @@
 -Accesorios de acero inoxidable <br>
 -Pisos de porcelanato</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 alinear-txt">
             <figure class="imagen3">
             	
             </figure>
@@ -97,7 +100,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 alinear-txt">
             <figure class="imagen4">
             	
             </figure>
@@ -109,7 +112,7 @@
 -Cancelarías de cristal templado <br>
 -Recubrimientos de primera calidad</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 alinear-txt">
             <figure class="imagen5">
             	
             </figure>
@@ -123,7 +126,7 @@
 -Alberca equipada <br>
 -Balcones y terrazas</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 alinear-txt">
             <figure class="imagen6">
             	
             </figure>

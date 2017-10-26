@@ -18,6 +18,9 @@
       <a class="selector" href="contacto.php">CONTACTO</a>
     </ul>
   </nav>
+   <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
 
 <div class="bannern">
@@ -28,11 +31,11 @@ Una de las empresas dedicadas a la ingeniería, construcción y mantenimiento </
 <div class="container" style="padding: 50px 0px;">
   <div class="uno">
     <div class="con" style="width: 45%; margin: 0 auto;"><span class="pull-left"><i class="fa fa-location-arrow" aria-hidden="true"></i></span><p class="pull-right"> MISION</p></div>
-    <p style="clear: both;">Contribuir al éxito de nuestros clientes mediante la satisfacción de sus necesidades relacionadas con los servicios que ofrecemos de ingeniería, construcción, mantenimiento e instalaciones, proporcionándoles soluciones técnico económicas de alto valor agregado.</p>
+    <p class="text-justificado" style="clear: both;">Contribuir al éxito de nuestros clientes mediante la satisfacción de sus necesidades relacionadas con los servicios que ofrecemos de ingeniería, construcción, mantenimiento e instalaciones, proporcionándoles soluciones técnico económicas de alto valor agregado.</p>
   </div>
   <div class="uno">
     <div class="con" style="width: 45%; margin: 0 auto;"><span class="pull-left"><i class="fa fa-eye" aria-hidden="true"></i></span><p class="pull-right"> VISION</p></div>
-    <p style="clear: both;">Posicionarnos en el mercado de nuestros clientes como la mejor empresa en el ramo de la construcción , ofreciendo un servicio integral de Arquitectura e Ingeniería Civil y operando siempre con un trato amable, de calidad y respeto para todos nuestros clientes.</p>
+    <p class="text-justificado" style="clear: both;">Posicionarnos en el mercado de nuestros clientes como la mejor empresa en el ramo de la construcción , ofreciendo un servicio integral de Arquitectura e Ingeniería Civil y operando siempre con un trato amable, de calidad y respeto para todos nuestros clientes.</p>
   </div>
   <div class="uno">
     <div class="con" style="width: 50%; margin: 0 auto;"><span class="pull-left"><i class="fa fa-handshake-o" aria-hidden="true"></i></span><p class="pull-right"> VALORES</p></div>
@@ -49,10 +52,9 @@ Trato Justo</p>
 <div class="section seccion1">
       <div class="container">
         <div class="row">
-          <div class="imagenn col-md-6">
-            
+          <div class="imagenn col-xs-12 col-sm-4 col-md-6">
           </div>
-          <div class="col-md-6">
+          <div class="col-xs-12 col-sm-8 col-md-6">
             <!-- <h1>A title</h1>
             <h3>A subtitle</h3> -->
             <p class="texton">Somos una empresa que proporciona un servicio integral a cualquier persona que desee construir o remodelar, te apoyamos desde el diseño de tu proyecto, realizamos todos los trámites que requieras para construir y edificamos tu proyecto hasta su finalización. <br><br>
